@@ -1,0 +1,25 @@
+
+
+/*#time, #date{
+  color: white;
+}*/
+
+
+.blackBox{
+  background-color: #310000;
+  margin: 25% auto 0 auto;
+  text-align: center;
+  padding: 20px 0;
+}
+
+#time, #myAlarm{
+  background-color: #310000;
+  color: red;
+  font-size: 4em;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#date{
+  color: red;
+  font-family: 'Press Start 2P', cursive;
+}
